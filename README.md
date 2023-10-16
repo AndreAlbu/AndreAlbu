@@ -23,5 +23,7 @@
   <a href = "mailto:aalbquerque689@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/albuquerque0.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Andre_Albu#0634" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=AndreAlbu)]([https://holopin.io/@rphi](https://holopin.io/@AndreAlbu))
     
 </div>
